@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Check Apk Version</string>
+    <string name="action_settings">Uninstalle Apps</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6759354971643864/5787788638</string>
+    <string name="page_ad_unit_id">ca-app-pub-6759354971643864/7264521833</string>
+    <string name="title_activity_uninstall">UninstallActivity</string>
+</resources>
